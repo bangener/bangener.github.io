@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bangener.github.io/sitemap.html.gz
+Sitemap: https://bangener.github.io/app/sitemap.html.gz
+Sitemap: https://bangener.github.io/assets/sitemap.html.gz
+Sitemap: https://bangener.github.io/css/sitemap.html.gz
+Sitemap: https://bangener.github.io/includes/sitemap.html.gz
+Sitemap: https://bangener.github.io/item/sitemap.html.gz
+Sitemap: https://bangener.github.io/src/sitemap.html.gz
